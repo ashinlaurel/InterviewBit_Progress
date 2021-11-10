@@ -1,2 +1,5 @@
-# InterviewBit_Progress
-A repo where I push the solution of the questions I solve in InterviewBit 
+# InterviewBit Progress
+A repo where I push the solutions of the questions I solve in InterviewBit 
+
+Topics :
+1. Array
